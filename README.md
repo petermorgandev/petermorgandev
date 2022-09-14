@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/petermorgandev/petermorgandev/main/wordmark-circle-rotated-navy-50percentopacity-173x173px.png" alt="PM Wordmark" align="right">
+![Peter Morgan - Website Developer](https://petermorgan.dev/images/meta/open-graph/open-graph-image-light-1200x600px.png)
 
 ### Hello. Hola. Bonjour. Guten tag. :wave:
 
