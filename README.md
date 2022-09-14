@@ -1,4 +1,4 @@
-![Peter Morgan](https://petermorgan.dev/images/meta/open-graph/open-graph-image-light-1200x600px.png)
+![Peter Morgan](https://raw.githubusercontent.com/petermorgandev/petermorgandev/main/Wordmark-1200x250px.png)
 
 ### Hello. Hola. Bonjour. Guten tag. :wave:
 
