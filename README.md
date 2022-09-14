@@ -1,10 +1,9 @@
-![Peter Morgan - Website Developer](https://petermorgan.dev/images/meta/open-graph/open-graph-image-light-1200x600px.png)
+![Peter Morgan](https://petermorgan.dev/images/meta/open-graph/open-graph-image-light-1200x600px.png)
 
 ### Hello. Hola. Bonjour. Guten tag. :wave:
 
+:envelope: [Email Me](mailto:peter@petermorgan.dev)
 
-Contact Me:
+:briefcase: [LinkedIn](https://www.linkedin.com/in/petermorgandev)
 
-- [Email](mailto:peter@petermorgan.dev)
-- [LinkedIn](https://www.linkedin.com/in/petermorgandev)
-- [Personal Website & Blog](https://petermorgan.dev/)
+:computer: [Website & Blog](https://petermorgan.dev/)
